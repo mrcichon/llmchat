@@ -1,0 +1,7 @@
+data_path: "embeddings/"
+llm_url: "http://localhost:11434"
+llm_name: "uczelniany"
+embedding_model: "sentence-transformers/all-mpnet-base-v2"
+qdrant_url: "http://localhost:6333"
+collection_name: "testenglish"
+chunk_size: 2024
